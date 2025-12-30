@@ -1,1 +1,14 @@
-{}
+{
+  "analytics": {
+    "gtag": "G-79B7LPP425"
+  },
+  "firebase": {
+    "projectId": "soaringhearts-8ad43",
+    "authDomain": "soaringhearts-8ad43.firebaseapp.com",
+    "storageBucket": "soaringhearts-8ad43.firebasestorage.app",
+    "apiKey": "AIzaSyBkIgnMOt3dSqZXnmgDuKweaHK0IPICgsM",
+    "messagingSenderId": "67799438374",
+    "appId": "1:67799438374:web:62cadd741a263d568c02e7"
+  },
+  "url": "https://soaringhearts-8ad43.web.app/"
+}
