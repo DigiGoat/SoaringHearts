@@ -1,1 +1,509 @@
-[]
+[
+  {
+    "name": "SG My-Enchanted-Acres Wkp Rogue",
+    "dateOfBirth": "2016-01-30T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1787559",
+    "id": 1579754,
+    "sex": "Male",
+    "damId": 1196766,
+    "sireId": 1291639,
+    "ownerAccount": {
+      "displayName": "Jonathan Conrad"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-09-12T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 266409
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH My-Enchanted-Acres Tallia",
+    "dateOfBirth": "2014-02-02T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1671478",
+    "id": 1463517,
+    "sex": "Female",
+    "damId": 1229057,
+    "sireId": 1419018,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 250483
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 244932
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2016,
+        "awardCount": 8
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Engylskye Countof Monte Cristo",
+    "dateOfBirth": "2013-02-12T00:00:00",
+    "dateOfDeath": "2022-08-12T22:23:45",
+    "normalizeId": "PN1627106",
+    "id": 1419018,
+    "sex": "Male",
+    "damId": 1202642,
+    "sireId": 1287767,
+    "ownerAccount": {
+      "displayName": "Judith A Bevaart"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-08-28T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 244812
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 220232
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Alize Kharm Personified",
+    "dateOfBirth": "2009-03-03T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1499945",
+    "id": 1291639,
+    "sex": "Male",
+    "damId": 1151824,
+    "sireId": 1039724,
+    "ownerAccount": {
+      "displayName": "Timothy Vanzant"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-09-11T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 213828
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2010-04-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 179689
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2010,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH My-Enchanted-Acres Molly Brown",
+    "dateOfBirth": "2008-02-26T00:00:00",
+    "dateOfDeath": "2022-04-22T09:55:48",
+    "normalizeId": "PN1437504",
+    "id": 1229057,
+    "sex": "Female",
+    "damId": 1129068,
+    "sireId": 1043912,
+    "ownerAccount": {
+      "displayName": "Kim Puzio"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2015-06-08T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 226766
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 220428
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2010-08-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 184424
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2010,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2010,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2010,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2011,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Thunder-Ridge PS Willow",
+    "dateOfBirth": "2007-03-04T00:00:00",
+    "dateOfDeath": "2019-10-02T00:00:00",
+    "normalizeId": "PN1405319",
+    "id": 1196766,
+    "sex": "Female",
+    "damId": 1084432,
+    "sireId": 1023462,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 220427
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 207564
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-06-12T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 189330
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2009-06-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 172229
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2008-07-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 164690
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2010,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2009,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2008,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2008,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2008,
+        "awardCount": 1
+      }
+    ]
+  }
+]
