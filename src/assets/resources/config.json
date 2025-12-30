@@ -10,10 +10,10 @@
   "colors": {
     "main": "hsl(330, 60%, 10%)",
     "light": {
-      "main": "hsl(330, 40%, 80%)",
-      "secondary": "hsl(330, 40%, 75%)",
-      "tertiary": "hsl(330, 40%, 70%)",
-      "quaternary": "hsl(330, 40%, 65%)"
+      "main": "hsl(330, 15%, 60%)",
+      "secondary": "hsl(330, 15%, 55%)",
+      "tertiary": "hsl(330, 15%, 50%)",
+      "quaternary": "hsl(330, 15%, 45%)"
     },
     "secondary": "hsl(330, 60%, 15%)",
     "tertiary": "hsl(330, 60%, 20%)",
