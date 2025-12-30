@@ -66,6 +66,9 @@
     "dateOfBirth": "1/12/2022"
   },
   {
-    "name": "Soaring Heart's Fille de Spectacle"
+    "name": "Soaring Heart's Fille de Spectacle",
+    "nickname": "Fille",
+    "dateOfBirth": "02/19/2023",
+    "normalizeId": "AMN03232"
   }
 ]
