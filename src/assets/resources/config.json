@@ -8,15 +8,15 @@
     "facebook": "Soaring-Hearts-Farm-223010591052093"
   },
   "colors": {
-    "main": "hsl(330, 60%, 10%)",
+    "main": "hsl(330, 50%, 10%)",
     "light": {
       "main": "hsl(330, 15%, 60%)",
       "secondary": "hsl(330, 15%, 55%)",
       "tertiary": "hsl(330, 15%, 50%)",
       "quaternary": "hsl(330, 15%, 45%)"
     },
-    "secondary": "hsl(330, 60%, 15%)",
-    "tertiary": "hsl(330, 60%, 20%)",
-    "quaternary": "hsl(330, 60%, 25%)"
+    "secondary": "hsl(330, 50%, 15%)",
+    "tertiary": "hsl(330, 50%, 20%)",
+    "quaternary": "hsl(330, 50%, 25%)"
   }
 }
