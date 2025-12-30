@@ -70,5 +70,19 @@
     "nickname": "Fille",
     "dateOfBirth": "02/19/2023",
     "normalizeId": "AMN03232"
+  },
+  {
+    "name": "SG Leisure Time Lola, A Show Girl",
+    "dateOfBirth": "2017-03-12T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1851209",
+    "id": 1643524,
+    "sex": "Female",
+    "damId": 1463517,
+    "sireId": 1579754,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
