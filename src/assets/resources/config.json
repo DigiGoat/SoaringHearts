@@ -20,5 +20,6 @@
     "quaternary": "hsl(330, 50%, 25%)"
   },
   "saleTerms": "Soaring Heart's Farm in Snohomish Washington is located just 20 miles north of Seattle and 6 miles east of I-5 at Everett. We are only 30 miles from the Seattle Tacoma Airport, but there is a new airport in Everett and I might explore if there are any shipping options available for animals out of there, planes are smaller so probably not, but worth exploring.",
-  "references": true
+  "references": true,
+  "kiddingSchedule": true
 }
